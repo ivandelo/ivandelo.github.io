@@ -1,7 +1,7 @@
 
 <h2 id="wp" style="margin: 2px 0px -15px;">Working Papers</h2>
 
-<div class="wp">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.WPs.main %}
