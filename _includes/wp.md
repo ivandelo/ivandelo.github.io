@@ -1,5 +1,5 @@
 
-<h2 id="wp" style="margin: 2px 0px -15px;">Working Papers</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Working Papers</h2>
 
 <div class="publications">
 <ol class="bibliography">
