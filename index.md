@@ -4,19 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. senior economist working in Prometeia's Macro-Economic & Financial Research Area. Previously, I worked in the Macroprudential Policy Division within the Financial Stability Department of Banco de Portugal.
+
+My research agenda covers:
+
+i) the impact of macroprudential policies and other policy measures relevant to financial stability, 
+
+ii) the development of early warning risk indicators to support macroprudential policy decisions, 
+
+iii) the implications of ESG issues for financial risk and stability.
+
+## Work in progress
+
+The impact of combined borrower-based measures; the measurement of the financial cycle; the impact of cyber risk.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Tokenization & monetary policy; non-bank financial intermediation; climate risks and financial stability; ESG issues and financial stability; AI risk; Housing and ageing. 
 
 {% include_relative _includes/publications.md %}
 
