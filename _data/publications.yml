@@ -7,6 +7,6 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014292125002284
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Covered in [centralbanking.com](https://www.centralbanking.com/central-banks/financial-stability/7824366/macro-pru-can-alleviate-stress-portuguese-paper),
-    [Banco de Portugal Working Papers 2021/3](https://www.bportugal.pt/paper/role-macroprudential-policy-times-trouble),
-    [Cambridge Working Papers in Economics, 2025/2561](https://www.econ.cam.ac.uk/publications/cwpe/2561)
+    #notes: Covered in [centralbanking.com](https://www.centralbanking.com/central-banks/financial-stability/7824366/macro-pru-can-alleviate-stress-portuguese-paper),
+    #[Banco de Portugal Working Papers 2021/3](https://www.bportugal.pt/paper/role-macroprudential-policy-times-trouble),
+    #[Cambridge Working Papers in Economics, 2025/2561](https://www.econ.cam.ac.uk/publications/cwpe/2561)
