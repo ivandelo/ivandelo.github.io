@@ -22,21 +22,4 @@ main:
     #image: ./assets/img/teaser_example_2.png
     #notes:
 
-- title: Prudential policy treatments to the COVID-19 economic crisis: an assessment of the effects
-    authors: <strong>Ivan De Lorenzo Buratta</strong>, Diana Lima, Duarte Maia
-    conference_short: MD
-    conference: Macroeconomic Dynamics. 2025, 29:e129.
-    #pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014292125002284
-    others: >
-      <a href=" https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/abs/prudential-policy-treatments-to-the-covid19-economic-crisis-an-assessment-of-the-effects/CCB0D9FF52739507A19810DC56943117?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" 
-         class="btn btn-sm z-depth-0" role="button" target="_blank" 
-         style="font-size:12px;">Published version</a><br>
-      <a href="https://www.bportugal.pt/en/paper/prudential-policy-treatments-covid-19-economic-crisis-assessment-effects" 
-         class="btn btn-sm z-depth-0" role="button" target="_blank" 
-         style="font-size:12px;">Banco de Portugal Working Papers 2023/14</a>
-      <a href="https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/ref_12_2021_en.pdf" 
-         class="btn btn-sm z-depth-0" role="button" target="_blank" 
-         style="font-size:12px;">Extract from the paper in the December 2021 Financial Stability Report (Special issues)</a>
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
-    #notes:
+
