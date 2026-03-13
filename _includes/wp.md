@@ -4,7 +4,7 @@
 <div class="wp">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.WPs.main %}
 
 <li>
 <div class="pub-row">
