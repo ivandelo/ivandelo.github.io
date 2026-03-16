@@ -4,6 +4,7 @@ main:
          target="_blank">Macroprudential Policy in Times of Trouble</a>
     authors: Jagjit S. Chadha, Germana Corrado, Luisa Corrado, Ivan De Lorenzo Buratta
     #conference_short: EER
+    image: ./assets/img/EER.png
     conference: European Economic Review, 2026, 181, 105178.
     others: >
       <a href="https://www.bportugal.pt/paper/role-macroprudential-policy-times-trouble"
