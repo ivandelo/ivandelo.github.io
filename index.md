@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I am a Ph.D. senior economist working in Prometeia's Macro-Economic & Financial Research Area. Previously, I worked in the Macroprudential Policy Division within the Financial Stability Department of Banco de Portugal.
+I am a Ph.D. Senior Economist working in Prometeia's Macro-Economic & Financial Research Area. Previously, I worked in the Macroprudential Policy Division within the Financial Stability Department of Banco de Portugal.
 
 My research agenda covers:
 
