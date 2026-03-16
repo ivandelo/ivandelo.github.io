@@ -1,24 +1,20 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&display=swap');
 @import "{{ site.theme }}";
 
 body, p, li, div {
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
 }
 
 h1, h2, h3, h4 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
   color: #2a7f4f !important;
 }
 
 header h1 {
-  font-family: 'Inter', color: #2a7f4f !important;
-}
-
-
-h1, h2, h3, h4 {
-  font-family: 'Inter', sans-serif !important;
+  color: #2a7f4f !important;
 }
 
 a {
@@ -39,4 +35,10 @@ a:hover {
 
 .title a:hover {
   color: #1e5c38 !important;
+}
+
+ol.bibliography {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
 }
