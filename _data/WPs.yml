@@ -3,8 +3,8 @@ main:
   - title: |
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503175" target="_blank">Unveiling the Liquidity Greenium&#58; Exploring Patterns in the Liquidity of Green versus Conventional Bonds</a>
     authors: "Ivan De Lorenzo Buratta, Annalisa Molino, Lorenzo Prosperi, Lea Zicchino"
-    conference: "Available at SSRN"
-    notes: "R&amp;R"
+    conference: "Available at SSRN (R&amp;R)"
+    #notes: "R&amp;R"
 
   - title: |
       <a href="https://www.bportugal.pt/en/publicacao/banco-de-portugal-economic-studies-vol-11-no-4" target="_blank">The vulnerability channel&#58; assessing the impact of financial conditions on the output gap</a>
