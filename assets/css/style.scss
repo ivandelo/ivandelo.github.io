@@ -1,40 +1,40 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
 @import "{{ site.theme }}";
 
 body, p, li, div {
-  font-family: 'Lato', sans-serif !important;
+  font-family: 'Inter', sans-serif !important;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Lato', sans-serif !important;
-  color: #2a7f4f !important;
+  font-family: 'Inter', sans-serif !important;
+  color: #1a5c35 !important;
 }
 
 header h1 {
-  color: #2a7f4f !important;
+  color: #1a5c35 !important;
 }
 
 a {
-  color: #2a7f4f !important;
+  color: #1a5c35 !important;
 }
 
 a:hover {
-  color: #1e5c38 !important;
+  color: #0f3d22 !important;
 }
 
 .social-icons a {
-  color: #2a7f4f !important;
+  color: #1a5c35 !important;
 }
 
 .title a {
-  color: #2a7f4f !important;
+  color: #1a5c35 !important;
 }
 
 .title a:hover {
-  color: #1e5c38 !important;
+  color: #0f3d22 !important;
 }
 
 ol.bibliography {
