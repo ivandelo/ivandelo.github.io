@@ -1,12 +1,8 @@
 main:
 
-  - title: The Role of Macroprudential Policy in Times of Trouble
-    authors: Jagjit S. Chadha, Germana Corrado, Luisa Corrado, <strong>Ivan De Lorenzo Buratta</strong>
-    conference_short: EER
-    conference: European Economic Review, 2026, 181, 105178. 
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014292125002284
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
-    #notes: Covered in [centralbanking.com](https://www.centralbanking.com/central-banks/financial-stability/7824366/macro-pru-can-alleviate-stress-portuguese-paper),
-    #[Banco de Portugal Working Papers 2021/3](https://www.bportugal.pt/paper/role-macroprudential-policy-times-trouble),
-    #[Cambridge Working Papers in Economics, 2025/2561](https://www.econ.cam.ac.uk/publications/cwpe/2561)
+   - title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503175"
+         target="_blank">Unveiling the Liquidity Greenium&#58; Exploring Patterns in the Liquidity of Green versus Conventional Bonds</a>
+    authors: Ivan De Lorenzo Buratta, Annalisa Molino, Lorenzo Prosperi, Lea Zicchino
+    #image: ./assets/img/JBF.png
+    conference: Available at SSRN
+    notes: R&R
