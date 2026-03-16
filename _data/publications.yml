@@ -1,7 +1,7 @@
 main:
 
   - title: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292125002284"
-         target="_blank">Macroprudential Policy in Times of Trouble</a>"
+         target="_blank">Macroprudential Policy in Times of Trouble</a>
     authors: Jagjit S. Chadha, Germana Corrado, Luisa Corrado, Ivan De Lorenzo Buratta
     conference_short: EER
     conference: European Economic Review, 2026, 181, 105178.
@@ -11,7 +11,7 @@ main:
          style="font-size:12px;">Banco de Portugal Working Papers 2021/3</a><br>
       <a href="https://www.econ.cam.ac.uk/publications/cwpe/2561"
          class="btn btn-sm z-depth-0" role="button" target="_blank"
-         style="font-size:12px;">Cambridge Working Papers in Economics, 2025/2561</a>
+         style="font-size:12px;">Cambridge Working Papers in Economics, 2025/2561</a><br>
       <a href="https://www.centralbanking.com/central-banks/financial-stability/7824366/macro-pru-can-alleviate-stress-portuguese-paper"
          class="btn btn-sm z-depth-0" role="button" target="_blank"
          style="font-size:12px;">Covered in centralbanking.com</a>
