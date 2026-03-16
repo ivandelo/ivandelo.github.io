@@ -1,28 +1,33 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
 @import "{{ site.theme }}";
 
-/* main link and accent color */
+body, p, li, div {
+  font-family: 'Inter', sans-serif !important;
+}
+
+h1, h2, h3 {
+  font-family: 'Inter', sans-serif !important;
+}
+
 a {
-  color: #2a7f4f;  /* your green */
+  color: #2a7f4f !important;
 }
 
 a:hover {
-  color: #1e5c38;  /* darker green on hover */
+  color: #1e5c38 !important;
 }
 
-/* social icons color */
 .social-icons a {
-  color: #2a7f4f;
+  color: #2a7f4f !important;
 }
 
-/* publication title links */
 .title a {
-  color: #2a7f4f;
+  color: #2a7f4f !important;
 }
 
 .title a:hover {
-  color: #1e5c38;
+  color: #1e5c38 !important;
 }
-
