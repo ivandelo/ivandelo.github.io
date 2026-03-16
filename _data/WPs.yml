@@ -5,3 +5,31 @@ main:
     authors: "Ivan De Lorenzo Buratta, Annalisa Molino, Lorenzo Prosperi, Lea Zicchino"
     conference: "Available at SSRN"
     notes: "R&amp;R"
+    
+  - title:
+      <a href="https://www.bportugal.pt/en/publicacao/banco-de-portugal-economic-studies-vol-11-no-4" target="_blank">The vulnerability channel&#58; assessing the impact of financial conditions on the output gap</a>
+  authors: "Ivan De Lorenzo Buratta, Diana Lima"
+  conference: "Banco de Portugal Economic Studies, Vol. XI, No. 4."
+  others: >
+      <a href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/the-vulnerability-channel-assessing-the-impact-of-financial-conditions-on-the-output-gap/"
+         class="btn btn-sm z-depth-0" role="button" target="_blank"
+         style="font-size:12px;">Extract from the paper in SUERF Policy Note No, 393 </a>
+
+   - title:
+      <a href="https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op357~804f63ec49.en.pdf?dafe7be66dd541ef7b524e212000b159" target="_blank">Using structural models to understand macroeconomic tail risks</a>
+  authors: "Carlos Montes-Galdón, Viktors Ajevskis, František Brázdik, Ivan De Lorenzo Buratta, Pablo García, William Gatt, Benedikt Kolb, Diana Lima, Kostas Mavromatis, Eva Ortega, Niki Papadopoulou"
+  conference: "ECB Occasional Paper  No. 2024/357"
+
+    - title:
+      <a href="https://www.bportugal.pt/en/publicacao/banco-de-portugal-economic-studies-vol-11-no-4" target="_blank">Mind the Build-up&#58; Quantifying Tail Risks for Credit Growth in Portugal</a>
+  authors: "Ivan De Lorenzo Buratta, Marina Feliciano and Duarte Maia"
+  conference: "Banco de Portugal Working Papers 2022/7"
+
+    - title:
+      <a href="https://www.bportugal.pt/paper/how-bad-can-financial-crises-be-gdp-tail-risk-assessment-portugal" target="_blank">How Bad Can Financial Crises Be? A GDP Tail Risk Assessment for Portugal</a>
+  authors: "Ivan De Lorenzo Buratta, Marina Feliciano and Duarte Maia"
+  conference: "Banco de Portugal Working Papers 2022/4"
+  others: >
+      <a href="https://www.suerf.org/suerf-policy-brief/47503/how-bad-can-financial-crises-be-a-gdp-tail-risk-assessment-for-portugal"
+         class="btn btn-sm z-depth-0" role="button" target="_blank"
+         style="font-size:12px;">Extract from the paper in SUERF - Policy Brief No, 353</a>
