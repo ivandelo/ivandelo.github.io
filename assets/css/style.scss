@@ -1,4 +1,28 @@
 ---
 ---
 
-@import "minimal-light";
+@import "{{ site.theme }}";
+
+/* main link and accent color */
+a {
+  color: #2a7f4f;  /* your green */
+}
+
+a:hover {
+  color: #1e5c38;  /* darker green on hover */
+}
+
+/* social icons color */
+.social-icons a {
+  color: #2a7f4f;
+}
+
+/* publication title links */
+.title a {
+  color: #2a7f4f;
+}
+
+.title a:hover {
+  color: #1e5c38;
+}
+
