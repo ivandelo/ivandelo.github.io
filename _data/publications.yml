@@ -34,7 +34,7 @@ main:
   - title: <a href="https://www.sciencedirect.com/science/article/pii/S0378426625001037"
          target="_blank">Sovereign loan guarantees and financial stability</a>
     authors: Ivan De Lorenzo Buratta, Tiago Pinheiro
-    #image: ./assets/img/JBF.png
+    image: ./assets/img/gua.png
     conference: Journal of Banking and Finance, Volume 178, September 2025, 107483
     others: >
       <a href="https://www.bportugal.pt/paper/covid-19-pandemic-sovereign-loan-guarantees-and-financial-stability"
