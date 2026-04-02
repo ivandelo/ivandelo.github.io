@@ -4,7 +4,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.Media.main %}
+{% for link in site.data.media.main %}
 
 <li>
 <div class="pub-row">
