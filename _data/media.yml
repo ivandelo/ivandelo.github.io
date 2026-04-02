@@ -1,0 +1,8 @@
+main:
+
+  - title: |
+      <a href="https://www.prometeia.com/en/about-us/insights/article/generative-ai-dal-boom-sui-mercati-al-rischio-spiazzamento-43745762" target="_blank">Generative AI&#58; From Market Boom to Risk of Disruption</a>
+    authors: "Ugo Speculato, Lorenzo Prosperi, Annalisa Molino, Ivan De Lorenzo Buratta"
+    conference: "Prometeia - Ideas"
+    #notes: "R&amp;R"
+    image: ./assets/img/prom.png
