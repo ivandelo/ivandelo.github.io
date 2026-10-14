@@ -1,15 +1,15 @@
 main:
 
-- title: |
-      <a href="https://www.prometeia.com/en/about-us/insights/article/russia-e-medio-oriente-come-il-rischio-geopolitico-entra-nel-racconto-delle-banche-60846088" target="_blank">Russia and the Middle East&#58; How Geopolitical Risk Is Reflected in Banks'' Reporting</a>
+  - title: |
+      <a href="https://www.prometeia.com/en/about-us/insights/article/russia-e-medio-oriente-come-il-rischio-geopolitico-entra-nel-racconto-delle-banche-60846088" target="_blank">Russia and the Middle East: How Geopolitical Risk Is Reflected in Banks' Reporting</a>
     authors: "Michele Cimino, Ivan De Lorenzo Buratta, Andrea Fabrizi, Francesco Giovanardi, Lorenzo Prosperi, Marco Scannella"
     conference: "Prometeia Ideas"
-    #notes: "R&amp;R"
+    #notes: "R&R"
     image: ./assets/img/prom_2.jpg
 
-- title: |
-      <a href="https://www.prometeia.com/en/about-us/insights/article/generative-ai-dal-boom-sui-mercati-al-rischio-spiazzamento-43745762" target="_blank">Generative AI&#58; From Market Boom to Risk of Disruption</a>
+  - title: |
+      <a href="https://www.prometeia.com/en/about-us/insights/article/generative-ai-dal-boom-sui-mercati-al-rischio-spiazzamento-43745762" target="_blank">Generative AI: From Market Boom to Risk of Disruption</a>
     authors: "Ugo Speculato, Lorenzo Prosperi, Annalisa Molino, Ivan De Lorenzo Buratta"
     conference: "Prometeia Ideas"
-    #notes: "R&amp;R"
+    #notes: "R&R"
     image: ./assets/img/prom_2.jpg
